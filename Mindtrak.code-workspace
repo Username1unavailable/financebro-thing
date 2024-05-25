@@ -1,0 +1,17 @@
+{
+  "folders": [
+	{
+		"path": "."
+	},
+	{
+		"path": "./"
+	},
+	{
+		"path": "./nav"
+	},
+	{
+		"path": "./assets"
+	}
+],
+  "settings": {}
+}
